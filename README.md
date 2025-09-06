@@ -23,7 +23,7 @@ To setup the project locally follow the below steps:
 - Clone the repository into your local system by the following command:
 
 ```sh
-git clone https://github.com/ronak-pal1/Advance-Todo.git
+git clone
 ```
 
 - After cloneing the repo, go into the folder and install the dependencies by the following command:
